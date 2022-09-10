@@ -62,15 +62,15 @@ Revisão sobre a linguagem Java
   * Método System.out.print
   * Exibir o valor de uma variável
   * Exibir o valor de um decimal  
-* Classe Math
+* [Classe Math](04.md)
   * Definição
   * Principais operações 
-* String
+* [String](04.md)
   * Concatenação de String
   * Principais operações sobre String
   * Comparação de String
   * Diferença entre String e caracter
-* Entrada de Dados
+* [Entrada de Dados](04.md)
   * Classe Scanner
     * Obter um valor inteiro
     * Obter um valor decimal
