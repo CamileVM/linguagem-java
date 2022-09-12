@@ -75,11 +75,11 @@ Revisão sobre a linguagem Java
     * Obter um valor inteiro
     * Obter um valor decimal
     * Obter um valor de texto 
-* Fluxo de Controle
+* [Fluxo de Controle](04.md)
   * Estruturas de Decisões
     * if-else-then
     * switch
-  * Estruturas de Repetições
+  * [Estruturas de Repetições](04.md)
     * for
     * while
     * do-while 
