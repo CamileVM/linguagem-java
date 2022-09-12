@@ -277,7 +277,7 @@ Revisão sobre a linguagem Java
 
 
 
-## Referências Bibliográficas
+# Referências Bibliográficas
 
 FURGERI, SÉRGIO. Java 8 Ensino Didático: Desenvolvimento e Implementação de Aplicações. Saraiva Educação SA, 2018.
 
