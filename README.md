@@ -84,7 +84,7 @@ Revisão sobre a linguagem Java
     * while
     * do-while 
     * Comandos break e continue
-* Arranjos e Matrizes
+* [Arranjos e Matrizes](05.md)
   * Definição matemática
   * Declaração de arranjos
   * Declaração de matrizes
@@ -95,7 +95,7 @@ Revisão sobre a linguagem Java
     * Em diagonal 
   * Utilizar arranjos e matrizes como parâmetros de métodos 
   * Utilizar arranjos e matrizes como retorno de métodos 
-* Tratamento de Exceções
+* [Tratamento de Exceções](05.md)
   * Definição
   * Exceções comuns
     * Divisão por zero
