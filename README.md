@@ -106,7 +106,7 @@ Revisão sobre a linguagem Java
   * Bloco para capturar diferentes exceções 
   * Bloco finally
   * Lançar uma exceção
-* Métodos estáticos
+* [Métodos estáticos](05.md)
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
   * Parâmetros 
