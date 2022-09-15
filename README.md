@@ -132,7 +132,7 @@ Revisão sobre a linguagem Java
     * Privado 
   * Sobrecarga de métodos
   * Sobrecarga de construtores
-* Pacotes 
+* [Pacotes](06.md)
   * Definição
      * Representação de pacotes na UML
   * Definição de um pacote em uma classe
@@ -141,10 +141,10 @@ Revisão sobre a linguagem Java
      * Default/Pacote  
   * Pacote default
     * Importar uma classe em um pacote default 
-* Escopo de classe e objeto
+* [Escopo de classe e objeto](06.md)
   * Definição 
   * Palavra reservada static 
-* Herança
+* [Herança](06.md)
   * Definição
      * Representação de herança na UML
   * Criação de uma classe que realiza herança 
