@@ -115,7 +115,7 @@ Revisão sobre a linguagem Java
     * Disponíveis na mesma classe
     * Disponíveis em outra classe/arquivo. 
   * Recursão 
-* Classe
+* [Classe](05.md)
   * Definição
     * Representação de classe e objeto na UML
     * Diferença entre classe e objeto
