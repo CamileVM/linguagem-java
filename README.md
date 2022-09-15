@@ -156,14 +156,14 @@ Revisão sobre a linguagem Java
   * Palavra reservada super 
      * Encadeamento de construtor 
      * Encadeamento de método
-* Interface
+* [Interface](06.md)
   * Definição
      * Representação de interface na UML
   * Criação de uma classe que implementa uma interface
   * Sobreescrita de métodos
   * Polimorfismo
     * Conversão de tipos 
-* Classe abstrada
+* [Classe abstrada](06.md)
   * Definição
      * Representação de classe abstrata na UML
   * Criação de uma classe que extende uma classe abstrata
